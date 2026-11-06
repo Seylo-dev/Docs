@@ -1,0 +1,7 @@
+node_modules
+.next
+.source
+bun.lock
+openapi.json
+*.svg
+content
